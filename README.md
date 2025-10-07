@@ -152,7 +152,7 @@ EventBridge triggers the Step Function automatically when:
 | Screenshot                                                                    | Description                                   |
 | ----------------------------------------------------------------------------- | --------------------------------------------- |
 | ![](project-screenshots/state-machine-movie-data-ingestion-sns-succeeded.png) | Step Function execution with SNS notification |
-| ![](project-screenshots/movie-data-analysis-glue-run.png)                     | State Machine orchestration flow              |
+| ![](project-screenshots/movie-data-analysis-glue-run.png)                     | first etl run             |
 
 ### 🧹 AWS Glue Components
 
